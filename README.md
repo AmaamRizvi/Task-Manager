@@ -133,7 +133,11 @@ We appreciate your interest in contributing to our project! Whether you're a dev
 2. Clone your forked repository:
 
 ```bash
+<<<<<<< HEAD
   git clone https://github.com/AmaamRizvi/Task-Manager
+=======
+  [git clone https://github.com/AmaamRizvi/Task-Manager]
+>>>>>>> 621a509df573244b3e1b1cd58dd0ccf3a45ef736
 ```
 
 ## Issues and Bug Reports
